@@ -1,0 +1,1 @@
+This is a distance calculator using ordered pairs. The code is able to be used during calculations of the designated topic, which is calculating the distance between two ordered pairs in the cartesian plane. 
